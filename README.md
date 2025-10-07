@@ -21,18 +21,31 @@
   <img width="226" height="226" alt="image" src="https://github.com/user-attachments/assets/787f42c8-6c06-4c41-856c-fca3c381146f" />
   
   •	Power voltage (USB): 5V DC
+  
   •	Input/Output voltage: 3.3V DC
+  
   •	Power consumption: 5μA in suspension mode
+  
   •	Performance: Up to 600 DMIPS
+  
   •	Frequency: up to 240MHz
+  
   •	Wi-fi: 802.11 B/g/n/E/I (802.11N @ 2.4 GHz up to 150 Mbit/s)
+  
   •	Bluetooth: 4.2 BR/EDR BLE 2 control modes
+  
   •	Memory: 448 Kbyte ROM, 520 Kbyte SRAM, 6 Kbyte SRAM on RTC and QSPI Flash/SRAM chip support
+
   •	USB-Serial chip: CP2102
+  
   •	Digital GPIO: 24 pins (some pins are input only)
+  
   •	Digital Analog: 12bit SAR type ADC, supports measurements on up to 18 channels, some pins support an amplifier with gain programming
+  
   •	Security: IEEE 802.11, including WFA, WPA/WPA2 and WAPI
+  
   •	Hardware accelerated cryptography: AES, SHA-2, RSA, Elliptical Curve cryptography (ECC), Random number generator (RNG)
+  
   •	Pinout:
   
   <img width="550" height="344" alt="image" src="https://github.com/user-attachments/assets/77483a59-8afd-4416-a263-83b3a1369f0e" />
